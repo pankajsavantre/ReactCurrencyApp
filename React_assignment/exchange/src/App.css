@@ -1,0 +1,29 @@
+#box{
+    width:500px;
+    height: 350px;
+    margin:0px 30%;
+    background-color: aqua;
+}
+#box h1{
+    margin-left: 30%;
+}
+#box input{
+    margin:10px 30%;
+    border: none;
+    border-radius: 15px;
+    padding: 7px;
+    width: 40%;
+    background-color:azure;
+    box-shadow: 0px 0px 3px 2px seashell;
+}
+#box input[type=submit]{
+    background-color:burlywood;
+    width: 30%;
+}
+#link{
+    color: blue;
+    font-size: 1rem;
+    text-decoration: none;
+    margin-left: 30%;
+    
+}

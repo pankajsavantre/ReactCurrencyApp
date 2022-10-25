@@ -1,0 +1,15 @@
+*{
+}
+#box{
+    width:50%;
+    height: 40%;
+    background-color: aquamarine;
+}
+#box #link{
+    font-size: 1.2rem;
+    letter-spacing: 3px;
+    margin-left:30%;
+}
+#box #link:hover{
+color: azure;
+}
